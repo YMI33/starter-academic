@@ -1,77 +1,42 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Zhiang Xie
+role: PhD student in Monash University
+bio: Zhiang Xie graduated from Yunnan University with a bachelor degree in
+  Atmospheric Science in 2014 and then studied in Institute of Atmospheric
+  Physics, Chinese Academy of Sciences until graduating with a master degree in
+  Physical Oceanography in 2018. Since 2019, he has joined in Monash University
+  as a PhD student working on the development of Monash Simple Climate Model. He
+  is interested in includes a wide range of research topics such as the climate
+  model development, statistic method and geophysical fluid dynamics.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+social: []
+organizations:
+  - name: School of Earth, Atmosphere and Environment, Monash University, Australia
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: PhD candidate
+      institution: Monash University, Australia
+      year: 2022
+    - course: Master of Natural Science, Physical Oceanography
+      institution: Institute of Atmospheric Physics, Chinese Academy of Sciences,
+        China; University of Chinese Academy of Science (UCAS), China
+      year: 2018
+    - course: Bachelor of Science, Atmospheric Science
+      institution: Yunnan University, China
+      year: 2014
+email: zhiang.xie@monash.edu
+superuser: true
 highlight_name: false
 ---
+### Monash University, Australia
+<p style="text-align:left;"> PhD candidate <span style="float:right;"> Feb. 2019 to Now </span> </p> 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+### Institute of Atmospheric Physics, Chinese Academy of Sciences, China
+### University of Chinese Academy of Science (UCAS), China
+<p style="text-align:left;"> Master of Natural Science, Physical Oceanography <span style="float:right;"> Sep. 2014 to Jun.2018 </span> </p> 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+### Yunnan University, China
+<p style="text-align:left;"> Bachelor of Science, Atmospheric Science <span style="float:right;"> Sep. 2010 to Jun. 2014 </span> </p> 

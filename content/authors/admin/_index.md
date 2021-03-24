@@ -19,9 +19,6 @@ organizations:
   - name: School of Earth, Atmosphere and Environment, Monash University, Australia
 education:
   courses:
-    - course: PhD candidate
-      institution: Monash University, Australia
-      year: 2022
     - course: Master of Natural Science, Physical Oceanography
       institution: Institute of Atmospheric Physics, Chinese Academy of Sciences,
         China; University of Chinese Academy of Science (UCAS), China

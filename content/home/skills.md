@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: "LBM <br> GREB-ISM"
+- description: 'LBM <br> GREB-ISM'
   icon: globe-asia
   icon_pack: fas
   name: Model
@@ -24,22 +24,22 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: "Fortran, <br> MATLAB, GrADS, <br> NCL, Python"
+- description: 'Fortran, <br> MATLAB, GrADS, <br> NCL, Python'
   icon: laptop-code
   icon_pack: fas
   name: Software
 
 # Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
+#- icon: ':smile:'
+#  icon_pack: 'emoji'
+#  name: 'Emojiness'
+#  description: '100%'  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+#- icon: 'your-custom-icon-name'
+#  icon_pack: 'custom'
+#  name: 'Surfing'
+#  description: '90%'
 ---

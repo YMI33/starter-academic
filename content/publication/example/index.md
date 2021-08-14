@@ -6,15 +6,19 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Dietmar Dommenget
+- Felicity S. McCormack
+- Andrew N. Mackintosh
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Ice sheet modelling and writing"
+- "Experiment design"
+- "Suggestion and data"
+- "Suggestion and data"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2021-07-01T00:00:00Z"
+doi: "10.5194/gmd-2021-204"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -23,18 +27,18 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In Geoscientific Model Development 
+publication_short: In *GMD*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We introduce a newly developed global ice sheet model coupled to the Globally Resolved Energy Balance (GREB) climate model for the simulation of global ice sheet evolution on time scales of 100 kyr or longer (GREB-ISM v0.3). Ice sheets and ice shelves are simulated on a global grid, fully interacting with the climate simulation of surface temperature, precipitation, albedo, land-sea mask, topography and sea level. Thus, it is a fully coupled atmosphere, ocean, land and ice sheet model. We test the model in ice sheet stand-alone and fully coupled simulations. The ice sheet model dynamics behave similarly to other hybrid SIA (Shallow Ice Approximation) and SSA (Shallow Shelf Approximation) models, but the West Antarctic Ice Sheet accumulates too much ice using present-day boundary conditions. The coupled model simulations produce global equilibrium ice sheet volumes and calving rates similar to observed for present day boundary conditions. We designed a series of idealised experiments driven by oscillating solar radiation forcing on periods of 20 kyr, 50 kyr and 100 kyr in the Northern Hemisphere. These simulations show clear interactions between the climate system and ice sheets, resulting in slow build-up and fast decay of ice-covered areas and global ice volume. The results also show that Northern Hemisphere ice sheets respond more strongly to time scales longer than 100 kyr. The coupling to the atmosphere and sea level leads to climate interactions between the Northern and Southern Hemispheres. The model can run global simulations of 100 kyr per day on a desktop computer, allowing the simulation of the whole Quaternary period (2.6 Myrs) within one month. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A globally resolved ice sheet model based on spherical coordinate is coupled with simple climate model, which is able to do million years simulation  
 
-tags: []
+tags: [ice sheet model, paleoclimate]
 
 # Display this page in the Featured widget?
 featured: true
@@ -56,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://www.researchgate.net/publication/353472209/figure/fig5/AS:1049991581822982@1627348909420/Same-as-Fig-14-but-at-only-for-the-last-cycle-of-each-run-The-vertical-dash-lines_W640.jpg)'
   focal_point: ""
   preview_only: false
 
@@ -81,7 +85,7 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+# Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

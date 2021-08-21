@@ -1,7 +1,7 @@
 ---
 title: Zhiang Xie
 role: PhD student in Monash University
-avatar_filename: zhiang_xie.jpeg
+avatar_filename: avatar.jpg
 bio: Zhiang Xie graduated from Yunnan University with a bachelor degree in
   Atmospheric Science in 2014 and then studied in Institute of Atmospheric
   Physics, Chinese Academy of Sciences until graduating with a master degree in

@@ -5,11 +5,11 @@ title: GREB-ISM
 summary: GREB-ISM
 url_video: ""
 date: 2021-09-05T14:53:43.988Z
-external_link: https://github.com/YMI33/GREB-ISM
+external_link: GREB-ISM on Github
 url_slides: ""
 subtitle: a global grid ice sheet model for paleoclimate simulation
 tags:
-  - Ice_sheet_modelling
+  - Ice sheet modelling
 links:
   - url: https://github.com/YMI33/GREB-ISM
     name: GREB-ISM on Github

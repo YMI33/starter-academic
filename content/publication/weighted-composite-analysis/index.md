@@ -7,6 +7,7 @@ authors:
   - Anmin Duan
   - Qun Tian
 doi: " https://doi.org/10.1002/asl.786"
+publication: In Atmospheric Science Letter
 abstract: The arbitrariness of composite analysis due to criterion of defining
   positive and negative events is an unsolved problem. To deal with it, a new
   method based on the covariance and defined as weighted composite analysis was
@@ -26,5 +27,5 @@ image:
   filename: https://rmets.onlinelibrary.wiley.com/cms/asset/9546d30c-94f9-4739-8b4c-ea2b02a821a3/asl2786-fig-0001-m.jpg
   focal_point: Smart
   preview_only: false
-date: 2021-09-05T15:38:04.536Z
+date: 2017-10-16T13:00:00.000Z
 ---

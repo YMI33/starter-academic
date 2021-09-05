@@ -54,10 +54,7 @@ tags:
 projects:
   - GREB-ISM
 image:
-  caption: "Image credit:
-    [**Unsplash**](https://www.researchgate.net/publication/353472209/figure/fi\
-    g5/AS:1049991581822982@1627348909420/Same-as-Fig-14-but-at-only-for-the-las\
-    t-cycle-of-each-run-The-vertical-dash-lines_W640.jpg)"
+  caption: ""
   focal_point: ""
   preview_only: false
 date: 2021-07-01T00:00:00.000Z

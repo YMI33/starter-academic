@@ -22,7 +22,7 @@ abstract: We introduce a newly developed global ice sheet model coupled to the
   Hemispheres. The model can run global simulations of 100 kyr per day on a
   desktop computer, allowing the simulation of the whole Quaternary period (2.6
   Myrs) within one month.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "3"
@@ -52,7 +52,7 @@ tags:
   - ice sheet model
   - paleoclimate
 projects:
-  - example
+  - GREB-ISM
 image:
   caption: "Image credit:
     [**Unsplash**](https://www.researchgate.net/publication/353472209/figure/fi\
@@ -60,9 +60,9 @@ image:
     t-cycle-of-each-run-The-vertical-dash-lines_W640.jpg)"
   focal_point: ""
   preview_only: false
-date: 2021-07-01T00:00:00Z
+date: 2021-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
